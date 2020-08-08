@@ -1,6 +1,6 @@
 # LinkedIn Wrapper
 This is a scraping system extracting the company details from the [LinkedIn][1]
-System is created with the help of [linkedin-api v2.0][2] which is created by [Tomquirk][3]
+System is created with the help of [linkedin-api v2.0a][2] which is created by [Tomquirk][3]
 
 
 ## How to install?
