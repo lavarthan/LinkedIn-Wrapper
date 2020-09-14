@@ -74,6 +74,12 @@ A company named json file containing the below data if available
 >> **Note:** *Only first company system will check. If you want to change the number of companies system should look Go to `utils.py` change the `limit` in the `get_companies` function*
 
 
+
+
+# :yum:
+
+<a href="https://www.buymeacoffee.com/th3darkknight" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 [1]: https://www.linkedin.com/
 [2]: https://github.com/tomquirk/linkedin-api
 [3]: https://github.com/tomquirk
