@@ -15,7 +15,7 @@ System is created with the help of [linkedin-api v2.0a][2] which is created by [
 
 > Go to the .env file and fill the LinkedIn credentials
 
-> Run the mani.py 
+> Run the `main.py` 
 
 > Enter the searching company name
 
